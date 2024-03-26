@@ -1,0 +1,128 @@
+[
+  {
+    "model": "auth.group",
+    "pk": 1,
+    "fields": {
+      "name": "risk_dashboard",
+      "permissions": []
+    }
+  },
+  {
+    "model": "auth.group",
+    "pk": 2,
+    "fields": {
+      "name": "risk_register",
+      "permissions": []
+    }
+  },
+  {
+    "model": "auth.group",
+    "pk": 3,
+    "fields": {
+      "name": "departments",
+      "permissions": []
+    }
+  },
+  {
+    "model": "auth.group",
+    "pk": 4,
+    "fields": {
+      "name": "sub_functions",
+      "permissions": []
+    }
+  },
+  {
+    "model": "auth.group",
+    "pk": 5,
+    "fields": {
+      "name": "company_setup",
+      "permissions": []
+    }
+  },
+  {
+    "model": "auth.group",
+    "pk": 6,
+    "fields": {
+      "name": "risk_repository",
+      "permissions": []
+    }
+  },
+  {
+    "model": "auth.group",
+    "pk": 7,
+    "fields": {
+      "name": "audit_plan",
+      "permissions": []
+    }
+  },
+  {
+    "model": "auth.group",
+    "pk": 8,
+    "fields": {
+      "name": "audit_engagements",
+      "permissions": []
+    }
+  },
+  {
+    "model": "auth.group",
+    "pk": 9,
+    "fields": {
+      "name": "policy_list",
+      "permissions": []
+    }
+  },
+  {
+    "model": "auth.group",
+    "pk": 10,
+    "fields": {
+      "name": "regulatry_law",
+      "permissions": []
+    }
+  },
+  {
+    "model": "auth.group",
+    "pk": 11,
+    "fields": {
+      "name": "control_objective",
+      "permissions": []
+    }
+  },
+  {
+    "model": "auth.group",
+    "pk": 12,
+    "fields": {
+      "name": "control_list",
+      "permissions": []
+    }
+  },
+
+
+  {
+    "model": "auth.group",
+    "pk": 13,
+    "fields": {
+      "name": "risk_assesment",
+      "permissions": []
+    }
+  },
+  {
+    "model": "auth.group",
+    "pk": 14,
+    "fields": {
+      "name": "user_management",
+      "permissions": []
+    }
+  },
+ 
+  {
+    "model": "auth.group",
+    "pk": 15,
+    "fields": {
+      "name": "policy_dashboard",
+      "permissions": []
+    }
+  }
+  
+
+]
+
